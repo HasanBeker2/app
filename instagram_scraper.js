@@ -91,11 +91,12 @@ class InstagramScraper {
         }
     }
 
-    async run() {
+    async run(city) {
         await this.init();
         let restaurants = [];
         try {
-            restaurants = await fs.readJson('turkish_restaurants_germany_with_whatsapp.json');
+            const inputFilename = `./json_output/turkish_restaurants_${city.toLowerCase()}_with_whatsapp.json`;
+            restaurants = await fs.readJson(inputFilename);
         } catch (error) {
             console.error('Error reading input JSON file:', error);
             await this.close();
@@ -120,10 +121,51 @@ class InstagramScraper {
             await this.page.waitForTimeout(1000); // Be respectful
         }
 
-        await fs.writeJson('turkish_restaurants_germany_final.json', updatedRestaurants, { spaces: 2 });
-        console.log('✓ Updated restaurant data with Instagram links saved to turkish_restaurants_germany_final.json');
+        const outputJsonFilename = `./json_output/turkish_restaurants_${city.toLowerCase()}_final.json`;
+        await fs.writeJson(outputJsonFilename, updatedRestaurants, { spaces: 2 });
+        console.log(`✓ Updated restaurant data with Instagram links saved to ${outputJsonFilename}`);
+
+        await this.exportFinalCSV(updatedRestaurants, city);
 
         await this.close();
+    }
+
+    async exportFinalCSV(data, city) {
+        const dir = './csv_output';
+        await fs.ensureDir(dir);
+        const filename = `${dir}/turkish_restaurants_${city.toLowerCase()}_final.csv`;
+
+        const csvWriter = createCsvWriter({
+            path: filename,
+            header: [
+                { id: 'index', title: 'Index' },
+                { id: 'name', title: 'Restaurant Name' },
+                { id: 'address', title: 'Address' },
+                { id: 'phone', title: 'Phone' },
+                { id: 'website', title: 'Website' },
+                { id: 'email', title: 'Email' },
+                { id: 'whatsapp', title: 'WhatsApp' },
+                { id: 'whatsappLink', title: 'WhatsApp Link' },
+                { id: 'rating', title: 'Rating' },
+                { id: 'reviewCount', title: 'Review Count' },
+                { id: 'category', title: 'Category' },
+                { id: 'hours', title: 'Hours' },
+                { id: 'facebook', title: 'Facebook' },
+                { id: 'instagram', title: 'Instagram' },
+                { id: 'twitter', title: 'Twitter' },
+                { id: 'scrapedAt', title: 'Scraped At' }
+            ]
+        });
+
+        const csvData = data.map(restaurant => ({
+            ...restaurant,
+            facebook: restaurant.socialMedia.facebook,
+            instagram: restaurant.socialMedia.instagram,
+            twitter: restaurant.socialMedia.twitter
+        }));
+
+        await csvWriter.writeRecords(csvData);
+        console.log(`✓ Final data exported to ${filename}`);
     }
 
     async close() {
@@ -133,7 +175,16 @@ class InstagramScraper {
     }
 }
 
+const createCsvWriter = require('csv-writer').createObjectCsvWriter;
+
 if (require.main === module) {
     const scraper = new InstagramScraper();
-    scraper.run();
+    const city = process.argv[2];
+    if (!city) {
+        console.error('Usage: node instagram_scraper.js <city>');
+        process.exit(1);
+    }
+    scraper.run(city);
 }
+
+module.exports = InstagramScraper;

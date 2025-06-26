@@ -290,22 +290,19 @@ class RestaurantScraper {
         }
     }
 
-    async run(cities = ['Berlin']) {
-        // ... (run metodunuzda bir değişiklik yapmadım)
+    async run(city = 'Berlin') {
         try {
             await this.init();
             
-            for (const city of cities) {
-                console.log(`\n=== Scraping ${city} ===`);
-                await this.searchRestaurants(city);
-                await this.page.waitForTimeout(3000);
-            }
+            console.log(`\n=== Scraping ${city} ===`);
+            await this.searchRestaurants(city);
+            await this.page.waitForTimeout(3000);
 
             console.log(`\n=== Scraping completed! Found ${this.results.length} restaurants ===`);
             
             if (this.results.length > 0) {
-                await this.exportToCSV();
-                await this.exportToJSON();
+                await this.exportToCSV(`turkish_restaurants_${city.toLowerCase()}.csv`);
+                await this.exportToJSON(`turkish_restaurants_${city.toLowerCase()}.json`);
             } else {
                 console.log('No data found to export');
             }
@@ -321,18 +318,17 @@ class RestaurantScraper {
 // CLI entry point: allow top-level async/await to ensure scraping completes
 if (require.main === module) {
     const scraper = new RestaurantScraper();
-    const cities = process.argv.slice(2);
-    if (cities.length === 0) {
-        console.log('Usage: node scraper.js [city1] [city2] ...');
-        console.log('Example: node scraper.js Berlin München Hamburg');
-        console.log('Default cities will be used if none specified.');
+    const city = process.argv[2];
+    if (!city) {
+        console.error('Usage: node scraper.js <city>');
+        process.exit(1);
     }
     // Start scraping; keep process alive via Playwright browser child process
-    console.log('Starting scraper for cities:', cities.length > 0 ? cities : ['Berlin']);
+    console.log('Starting scraper for city:', city);
     // Prevent process from exiting before async operations complete
     const keepAlive = setInterval(() => {}, 1000);
     console.log('keepAlive timer scheduled');
-    const runPromise = scraper.run(cities.length > 0 ? cities : undefined);
+    const runPromise = scraper.run(city);
     console.log('runPromise created');
     runPromise
       .catch(error => {

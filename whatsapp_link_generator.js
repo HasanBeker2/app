@@ -1,8 +1,9 @@
 const fs = require('fs-extra');
 
-async function generateWhatsAppLinks() {
+async function generateWhatsAppLinks(city) {
     try {
-        const restaurants = await fs.readJson('turkish_restaurants_germany.json');
+        const inputFilename = `./json_output/turkish_restaurants_${city.toLowerCase()}.json`;
+        const restaurants = await fs.readJson(inputFilename);
 
         const updatedRestaurants = restaurants.map(restaurant => {
             let phoneNumber = restaurant.phone;
@@ -35,12 +36,20 @@ async function generateWhatsAppLinks() {
             };
         });
 
-        await fs.writeJson('turkish_restaurants_germany_with_whatsapp.json', updatedRestaurants, { spaces: 2 });
-        console.log('✓ WhatsApp links generated and saved to turkish_restaurants_germany_with_whatsapp.json');
+        const outputFilename = `./json_output/turkish_restaurants_${city.toLowerCase()}_with_whatsapp.json`;
+        await fs.writeJson(outputFilename, updatedRestaurants, { spaces: 2 });
+        console.log(`✓ WhatsApp links generated and saved to ${outputFilename}`);
 
     } catch (error) {
         console.error('Error generating WhatsApp links:', error);
     }
 }
 
-generateWhatsAppLinks();
+if (require.main === module) {
+    const city = process.argv[2];
+    if (!city) {
+        console.error('Usage: node whatsapp_link_generator.js <city>');
+        process.exit(1);
+    }
+    generateWhatsAppLinks(city);
+}
