@@ -17,6 +17,15 @@ npm install
 
 ## Usage
 
+### Full Pipeline (Recommended)
+```bash
+node run_all.js Berlin München Hamburg
+```
+This runs the complete pipeline for each city:
+1. Scrapes restaurant data
+2. Generates WhatsApp links
+3. Scrapes Instagram links
+
 ### Basic Usage
 ```bash
 npm start

@@ -1,0 +1,1942 @@
+[
+  {
+    "name": "Ziyafet Restaurant - Frankfurt am Main",
+    "address": "Europa-Allee 14, 60327 Frankfurt am Main",
+    "phone": "069 89004883",
+    "website": "https://www.ziyafet-frankfurt.de/",
+    "rating": "4.6",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 1,
+    "scrapedAt": "2025-06-26T14:00:32.400Z",
+    "whatsappLink": "https://wa.me/496989004883"
+  },
+  {
+    "name": "Urfa Man Gala Grillhouse",
+    "address": "Albanusstraße 40, 65929 Frankfurt am Main",
+    "phone": "069 306624",
+    "website": "https://urfaman-gala.de/",
+    "rating": "4.6",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 2,
+    "scrapedAt": "2025-06-26T14:00:39.991Z",
+    "whatsappLink": "https://wa.me/4969306624"
+  },
+  {
+    "name": "Central Grill",
+    "address": "Münchener Str. 17, 60329 Frankfurt am Main",
+    "phone": "069 24450041",
+    "website": "http://centralgrill-frankfurt.de/",
+    "rating": "4.7",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/central_grill_frankfurt",
+      "twitter": ""
+    },
+    "index": 3,
+    "scrapedAt": "2025-06-26T14:00:44.310Z",
+    "whatsappLink": "https://wa.me/496924450041"
+  },
+  {
+    "name": "Harput Restaurant Frankfurt",
+    "address": "Kornmarkt 11, 60311 Frankfurt am Main",
+    "phone": "069 78806752",
+    "website": "https://harputfrankfurt.de/",
+    "rating": "4.4",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/harput.frankfurt/",
+      "twitter": ""
+    },
+    "index": 4,
+    "scrapedAt": "2025-06-26T14:00:49.128Z",
+    "whatsappLink": "https://wa.me/496978806752"
+  },
+  {
+    "name": "Anatolia Cafe Restaurant Frankfurt am Main",
+    "address": "Zeil 23, 60313 Frankfurt am Main",
+    "phone": "069 29729546",
+    "website": "https://anatolia-frankfurt.de/home",
+    "rating": "4.2",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 5,
+    "scrapedAt": "2025-06-26T14:00:53.976Z",
+    "whatsappLink": "https://wa.me/496929729546"
+  },
+  {
+    "name": "Havanda",
+    "address": "Liebfrauenstraße 1-3, 60313 Frankfurt am Main",
+    "phone": "",
+    "website": "Liebfrauenstraße 1-3, 60313 Frankfurt am Main",
+    "rating": "4.3",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 6,
+    "scrapedAt": "2025-06-26T14:00:59.154Z",
+    "whatsappLink": ""
+  },
+  {
+    "name": "Istanbul Restaurant",
+    "address": "Radilostraße 11, 60489 Frankfurt am Main",
+    "phone": "069 78802388",
+    "website": "Radilostraße 11, 60489 Frankfurt am Main",
+    "rating": "4.3",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 7,
+    "scrapedAt": "2025-06-26T14:01:03.419Z",
+    "whatsappLink": "https://wa.me/496978802388"
+  },
+  {
+    "name": "HAN Gaziantep Sofrasi",
+    "address": "In d. Schildwacht 15, 65933 Frankfurt am Main",
+    "phone": "069 97690906",
+    "website": "http://www.hansofrasi.de/",
+    "rating": "4.5",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "http://instagram.com/han.gaziantepsofrasi%20",
+      "twitter": ""
+    },
+    "index": 8,
+    "scrapedAt": "2025-06-26T14:01:07.943Z",
+    "whatsappLink": "https://wa.me/496997690906"
+  },
+  {
+    "name": "bona'me Frankfurt",
+    "address": "Junghofstraße 14, 60311 Frankfurt am Main",
+    "phone": "069 430519300",
+    "website": "https://bona-me.de/",
+    "rating": "4.1",
+    "reviewCount": "",
+    "category": "Orientalisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/boname.group/",
+      "twitter": ""
+    },
+    "index": 9,
+    "scrapedAt": "2025-06-26T14:01:16.512Z",
+    "whatsappLink": "https://wa.me/4969430519300"
+  },
+  {
+    "name": "DoyDoy Steak & Grillhouse",
+    "address": "Zeil 25, 60313 Frankfurt am Main",
+    "phone": "069 20976868",
+    "website": "http://doydoy-frankfurt.com/",
+    "rating": "3.9",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/doydoy.frankfurt/",
+      "twitter": ""
+    },
+    "index": 10,
+    "scrapedAt": "2025-06-26T14:01:21.582Z",
+    "whatsappLink": "https://wa.me/496920976868"
+  },
+  {
+    "name": "Kirvem Grill Haus",
+    "address": "Leipziger Str. 85, 60487 Frankfurt am Main",
+    "phone": "069 24705816",
+    "website": "https://Leipziger Str. 85, 60487 Frankfurt am Main",
+    "rating": "4.7",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 11,
+    "scrapedAt": "2025-06-26T14:01:27.001Z",
+    "whatsappLink": "https://wa.me/496924705816"
+  },
+  {
+    "name": "Konak Restaurant",
+    "address": "Radilostraße 34, 60489 Frankfurt am Main",
+    "phone": "069 90556660",
+    "website": "https://www.konak-restaurant.de/",
+    "rating": "4.6",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/",
+      "twitter": ""
+    },
+    "index": 12,
+    "scrapedAt": "2025-06-26T14:01:32.065Z",
+    "whatsappLink": "https://wa.me/496990556660"
+  },
+  {
+    "name": "Mangal ET Kebap-Haus",
+    "address": "Große Friedberger Str. 14, 60313 Frankfurt am Main",
+    "phone": "069 97694224",
+    "website": "https://Große Friedberger Str. 14, 60313 Frankfurt am Main",
+    "rating": "4.8",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 13,
+    "scrapedAt": "2025-06-26T14:01:36.614Z",
+    "whatsappLink": "https://wa.me/496997694224"
+  },
+  {
+    "name": "Antep Sofrası",
+    "address": "Albanusstraße 37, 65929 Frankfurt am Main",
+    "phone": "069 37564090",
+    "website": "http://www.antepsofrasi-frankfurt.com/",
+    "rating": "4.5",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 14,
+    "scrapedAt": "2025-06-26T14:01:41.242Z",
+    "whatsappLink": "https://wa.me/496937564090"
+  },
+  {
+    "name": "Lavin Restaurant",
+    "address": "Breitlacherstraße 89, 60489 Frankfurt am Main",
+    "phone": "069 70609360",
+    "website": "https://de-de.facebook.com/Lavinrestaurant",
+    "rating": "4.4",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "https://de-de.facebook.com/Lavinrestaurant",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 15,
+    "scrapedAt": "2025-06-26T14:01:49.109Z",
+    "whatsappLink": "https://wa.me/496970609360"
+  },
+  {
+    "name": "Emir ET Restaurant",
+    "address": "Allerheiligenstraße 21, 60313 Frankfurt am Main",
+    "phone": "069 61994023",
+    "website": "https://emiret-restaurant.de/",
+    "rating": "4.2",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 16,
+    "scrapedAt": "2025-06-26T14:01:53.362Z",
+    "whatsappLink": "https://wa.me/496961994023"
+  },
+  {
+    "name": "Central Grill Grillhouse",
+    "address": "Mainzer Landstraße 240, 60326 Frankfurt am Main",
+    "phone": "069 97319612",
+    "website": "http://centralgrill-ffm.de/",
+    "rating": "4.1",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 17,
+    "scrapedAt": "2025-06-26T14:01:57.643Z",
+    "whatsappLink": "https://wa.me/496997319612"
+  },
+  {
+    "name": "Marmaris Grillhaus",
+    "address": "Taunusstraße 44, 60329 Frankfurt am Main",
+    "phone": "069 24249403",
+    "website": "Taunusstraße 44, 60329 Frankfurt am Main",
+    "rating": "4.7",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 18,
+    "scrapedAt": "2025-06-26T14:02:01.711Z",
+    "whatsappLink": "https://wa.me/496924249403"
+  },
+  {
+    "name": "Duble Meze Grill",
+    "address": "Rothschildallee 36, 60389 Frankfurt am Main",
+    "phone": "01523 8961488",
+    "website": "https://www.dublemezegrill.de/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16834049652509789080",
+    "rating": "4.7",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/duble_meze_grill/",
+      "twitter": ""
+    },
+    "index": 19,
+    "scrapedAt": "2025-06-26T14:02:06.928Z",
+    "whatsappLink": "https://wa.me/4915238961488"
+  },
+  {
+    "name": "Lezizel Manti - Frankfurt",
+    "address": "Berger Str. 148, 60385 Frankfurt am Main",
+    "phone": "069 30072665",
+    "website": "https://lezizel.de/lezizel-filiale-frankfurt",
+    "rating": "4.4",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/lezizel_frankfurt",
+      "twitter": ""
+    },
+    "index": 20,
+    "scrapedAt": "2025-06-26T14:02:12.077Z",
+    "whatsappLink": "https://wa.me/496930072665"
+  },
+  {
+    "name": "Minka",
+    "address": "Zeil 23, 60313 Frankfurt am Main",
+    "phone": "069 21996454",
+    "website": "Zeil 23, 60313 Frankfurt am Main",
+    "rating": "4.3",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 21,
+    "scrapedAt": "2025-06-26T14:02:16.228Z",
+    "whatsappLink": "https://wa.me/496921996454"
+  },
+  {
+    "name": "Haus des Döners",
+    "address": "Kaiserstraße 52, 60329 Frankfurt am Main",
+    "phone": "",
+    "website": "Kaiserstraße 52, 60329 Frankfurt am Main",
+    "rating": "4.8",
+    "reviewCount": "",
+    "category": "Döner-Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 22,
+    "scrapedAt": "2025-06-26T14:02:20.727Z",
+    "whatsappLink": ""
+  },
+  {
+    "name": "Cronberger Gartenlokal",
+    "address": "60389 Frankfurt am Main",
+    "phone": "01578 8197255",
+    "website": "60389 Frankfurt am Main",
+    "rating": "4.7",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 23,
+    "scrapedAt": "2025-06-26T14:02:29.181Z",
+    "whatsappLink": "https://wa.me/4915788197255"
+  },
+  {
+    "name": "Nazar DÖNER & GRILL Katharienenpforte 6",
+    "address": "Katharinenpforte 6, 60313 Frankfurt am Main",
+    "phone": "01521 2383963",
+    "website": "http://nazar-doener.de/",
+    "rating": "4.6",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/nazar_doener/",
+      "twitter": ""
+    },
+    "index": 24,
+    "scrapedAt": "2025-06-26T14:02:34.261Z",
+    "whatsappLink": "https://wa.me/4915212383963"
+  },
+  {
+    "name": "Melis Kebap&Pizza",
+    "address": "Leipziger Str. 62, 60487 Frankfurt am Main",
+    "phone": "069 92883195",
+    "website": "https://Leipziger Str. 62, 60487 Frankfurt am Main",
+    "rating": "4.1",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 25,
+    "scrapedAt": "2025-06-26T14:02:39.593Z",
+    "whatsappLink": "https://wa.me/496992883195"
+  },
+  {
+    "name": "YA’ MEDINA Steaks&More Halal Steakhouse Frankfurt",
+    "address": "Berliner Str. 10, 60311 Frankfurt am Main",
+    "phone": "069 21006635",
+    "website": "https://medina-steakhouse.de/",
+    "rating": "4.6",
+    "reviewCount": "",
+    "category": "Halalrestaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/medina_steakhouse/",
+      "twitter": ""
+    },
+    "index": 26,
+    "scrapedAt": "2025-06-26T14:02:44.024Z",
+    "whatsappLink": "https://wa.me/496921006635"
+  },
+  {
+    "name": "My Lokanta - Restaurant & Bar",
+    "address": "Gravensteiner-Platz 6, 60435 Frankfurt am Main",
+    "phone": "069 20738449",
+    "website": "https://my-lokanta.eatbu.com/",
+    "rating": "4.5",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 27,
+    "scrapedAt": "2025-06-26T14:02:49.374Z",
+    "whatsappLink": "https://wa.me/496920738449"
+  },
+  {
+    "name": "Köfteci Oguz",
+    "address": "17, Münchener Str. 15, 60329 Frankfurt am Main",
+    "phone": "069 24247024",
+    "website": "https://17, Münchener Str. 15, 60329 Frankfurt am Main",
+    "rating": "4.7",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 28,
+    "scrapedAt": "2025-06-26T14:02:53.532Z",
+    "whatsappLink": "https://wa.me/496924247024"
+  },
+  {
+    "name": "Mamma Forno",
+    "address": "Zeil 29, 60313 Frankfurt am Main",
+    "phone": "069 13386888",
+    "website": "http://www.mamma-forno.de/",
+    "rating": "4.6",
+    "reviewCount": "",
+    "category": "Mediterranes Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 29,
+    "scrapedAt": "2025-06-26T14:03:00.947Z",
+    "whatsappLink": "https://wa.me/496913386888"
+  },
+  {
+    "name": "Haus des Döners",
+    "address": "Mainzer Landstraße 258, 60326 Frankfurt am Main",
+    "phone": "0174 9716171",
+    "website": "https://www.hausdesdoners.de/",
+    "rating": "4.7",
+    "reviewCount": "",
+    "category": "Döner-Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/hausdesdoners/reel/C-hZuxvNBJ8/",
+      "twitter": ""
+    },
+    "index": 30,
+    "scrapedAt": "2025-06-26T14:03:06.507Z",
+    "whatsappLink": "https://wa.me/491749716171"
+  },
+  {
+    "name": "Alanya City Frankfurt am Main",
+    "address": "Taunusstraße 36, 60329 Frankfurt am Main",
+    "phone": "069 24248269",
+    "website": "https://alanya-city.de/?utm_source=GMBwebsite&utm_medium=organic&utm_campaign=Google%20My%20Business",
+    "rating": "3.9",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 31,
+    "scrapedAt": "2025-06-26T14:03:10.622Z",
+    "whatsappLink": "https://wa.me/496924248269"
+  },
+  {
+    "name": "PALU GRILL DÖNER",
+    "address": "Leipziger Str. 32, 60487 Frankfurt am Main",
+    "phone": "069 26018148",
+    "website": "https://sellwerk.de/firmenprofil/palu-grillhaus",
+    "rating": "4.2",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/palu_grill?igsh=NTRtMjlzMG1sNmF1",
+      "twitter": ""
+    },
+    "index": 32,
+    "scrapedAt": "2025-06-26T14:03:15.090Z",
+    "whatsappLink": "https://wa.me/496926018148"
+  },
+  {
+    "name": "Kebabchi Frankfurt",
+    "address": "Landgrafenstraße 7, 60486 Frankfurt am Main",
+    "phone": "069 36606421",
+    "website": "https://kebabchi-frankfurt.de/21422?utm_source=google&utm_medium=mybusiness&utm_campaign=gb",
+    "rating": "4.9",
+    "reviewCount": "",
+    "category": "Kebabimbiss",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 33,
+    "scrapedAt": "2025-06-26T14:03:20.522Z",
+    "whatsappLink": "https://wa.me/496936606421"
+  },
+  {
+    "name": "Çetin Grill",
+    "address": "Frankenallee 153, 60326 Frankfurt am Main",
+    "phone": "069 7393796",
+    "website": "http://www.cetingrill.de/",
+    "rating": "4.4",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 34,
+    "scrapedAt": "2025-06-26T14:03:25.739Z",
+    "whatsappLink": "https://wa.me/49697393796"
+  },
+  {
+    "name": "Berger Kebap Frankfurt am Main",
+    "address": "Berger Str. 40-42, 60316 Frankfurt am Main",
+    "phone": "069 40562017",
+    "website": "https://Berger Str. 40-42, 60316 Frankfurt am Main",
+    "rating": "4.3",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 35,
+    "scrapedAt": "2025-06-26T14:03:30.355Z",
+    "whatsappLink": "https://wa.me/496940562017"
+  },
+  {
+    "name": "Toprak Grill & Steak Haus",
+    "address": "Große Friedberger Str. 19, 60313 Frankfurt am Main",
+    "phone": "069 27243686",
+    "website": "https://toprakkebaphaus.wixsite.com/toprak-kebap-haus",
+    "rating": "4.1",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 36,
+    "scrapedAt": "2025-06-26T14:03:38.049Z",
+    "whatsappLink": "https://wa.me/496927243686"
+  },
+  {
+    "name": "Elbistan",
+    "address": "Königsteiner Str. 40, 65929 Frankfurt am Main",
+    "phone": "069 41070077",
+    "website": "https://Königsteiner Str. 40, 65929 Frankfurt am Main",
+    "rating": "4.5",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 37,
+    "scrapedAt": "2025-06-26T14:03:43.146Z",
+    "whatsappLink": "https://wa.me/496941070077"
+  },
+  {
+    "name": "Papay Restaurant",
+    "address": "Allerheiligenstraße 40, 60313 Frankfurt am Main",
+    "phone": "069 95198919",
+    "website": "https://papay-restaurant.eatbu.com/",
+    "rating": "4.5",
+    "reviewCount": "",
+    "category": "Syrisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 38,
+    "scrapedAt": "2025-06-26T14:03:48.376Z",
+    "whatsappLink": "https://wa.me/496995198919"
+  },
+  {
+    "name": "Kaptan Döner Grill & Kebaphaus",
+    "address": "Schäfergasse 52, 60313 Frankfurt am Main",
+    "phone": "069 410268",
+    "website": "Schäfergasse 52, 60313 Frankfurt am Main",
+    "rating": "4.6",
+    "reviewCount": "",
+    "category": "Kebabimbiss",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 39,
+    "scrapedAt": "2025-06-26T14:03:52.996Z",
+    "whatsappLink": "https://wa.me/4969410268"
+  },
+  {
+    "name": "Ibo'nun Yeri",
+    "address": "Ginnheimer Waldgasse 33, 60431 Frankfurt am Main",
+    "phone": "0177 1954597",
+    "website": "Ginnheimer Waldgasse 33, 60431 Frankfurt am Main",
+    "rating": "4.6",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 40,
+    "scrapedAt": "2025-06-26T14:03:58.314Z",
+    "whatsappLink": "https://wa.me/491771954597"
+  },
+  {
+    "name": "Efes Taverne",
+    "address": "Sossenheimer Riedstraße 21, 65936 Frankfurt am Main",
+    "phone": "0177 7877509",
+    "website": "Sossenheimer Riedstraße 21, 65936 Frankfurt am Main",
+    "rating": "4.3",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 41,
+    "scrapedAt": "2025-06-26T14:04:03.144Z",
+    "whatsappLink": "https://wa.me/491777877509"
+  },
+  {
+    "name": "Morgenland",
+    "address": "Berger Str. 215, 60385 Frankfurt am Main",
+    "phone": "069 452561",
+    "website": "https://Berger Str. 215, 60385 Frankfurt am Main",
+    "rating": "4.1",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 42,
+    "scrapedAt": "2025-06-26T14:04:11.340Z",
+    "whatsappLink": "https://wa.me/4969452561"
+  },
+  {
+    "name": "Nirwana Grill",
+    "address": "Berger Str. 194, 60385 Frankfurt am Main",
+    "phone": "069 94599800",
+    "website": "http://nirwanagrill.de/",
+    "rating": "4.6",
+    "reviewCount": "",
+    "category": "Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 43,
+    "scrapedAt": "2025-06-26T14:04:15.990Z",
+    "whatsappLink": "https://wa.me/496994599800"
+  },
+  {
+    "name": "SAFF-ET",
+    "address": "Zeil 44, 60313 Frankfurt am Main",
+    "phone": "069 42607868",
+    "website": "http://saffetrestaurant.de/",
+    "rating": "3.9",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/saffetfrankfurt/",
+      "twitter": ""
+    },
+    "index": 44,
+    "scrapedAt": "2025-06-26T14:04:20.169Z",
+    "whatsappLink": "https://wa.me/496942607868"
+  },
+  {
+    "name": "Altin Sofrasi",
+    "address": "Textorstraße 10, 60594 Frankfurt am Main",
+    "phone": "069 20736774",
+    "website": "Textorstraße 10, 60594 Frankfurt am Main",
+    "rating": "4.0",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 45,
+    "scrapedAt": "2025-06-26T14:04:24.619Z",
+    "whatsappLink": "https://wa.me/496920736774"
+  },
+  {
+    "name": "Melis",
+    "address": "Am Dorfgarten 1, 60435 Frankfurt am Main",
+    "phone": "069 95454530",
+    "website": "Am Dorfgarten 1, 60435 Frankfurt am Main",
+    "rating": "4.4",
+    "reviewCount": "",
+    "category": "Kebabimbiss",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 46,
+    "scrapedAt": "2025-06-26T14:04:29.311Z",
+    "whatsappLink": "https://wa.me/496995454530"
+  },
+  {
+    "name": "Star Türkü Evi Frankfurt",
+    "address": "Bischofsweg 48 A, 60598 Frankfurt am Main",
+    "phone": "01573 5589581",
+    "website": "https://www.instagram.com/starturku",
+    "rating": "4.2",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/starturku",
+      "twitter": ""
+    },
+    "index": 47,
+    "scrapedAt": "2025-06-26T14:04:34.586Z",
+    "whatsappLink": "https://wa.me/4915735589581"
+  },
+  {
+    "name": "WATAN KABAB",
+    "address": "Münchener Str. 21, 60329 Frankfurt am Main",
+    "phone": "069 24009931",
+    "website": "https://Münchener Str. 21, 60329 Frankfurt am Main",
+    "rating": "4.2",
+    "reviewCount": "",
+    "category": "Afghanisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 48,
+    "scrapedAt": "2025-06-26T14:04:38.803Z",
+    "whatsappLink": "https://wa.me/496924009931"
+  },
+  {
+    "name": "Ünlü Kebap",
+    "address": "Düsseldorfer Str. 15-17, 60329 Frankfurt am Main",
+    "phone": "069 68604565",
+    "website": "https://Düsseldorfer Str. 15-17, 60329 Frankfurt am Main",
+    "rating": "4.4",
+    "reviewCount": "",
+    "category": "Kebabimbiss",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 49,
+    "scrapedAt": "2025-06-26T14:04:47.074Z",
+    "whatsappLink": "https://wa.me/496968604565"
+  },
+  {
+    "name": "Bam Bam Keb'up - Döner Pizza Lahmacun Pide",
+    "address": "Berger Str. 116, 60316 Frankfurt am Main",
+    "phone": "069 15343608",
+    "website": "http://bambam-kebup.de/",
+    "rating": "4.8",
+    "reviewCount": "",
+    "category": "Döner-Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/bambamkebup",
+      "twitter": ""
+    },
+    "index": 50,
+    "scrapedAt": "2025-06-26T14:04:52.007Z",
+    "whatsappLink": "https://wa.me/496915343608"
+  },
+  {
+    "name": "Istanbul Fisch Grill",
+    "address": "Münchener Str. 27, 60329 Frankfurt am Main",
+    "phone": "069 89990539",
+    "website": "https://Münchener Str. 27, 60329 Frankfurt am Main",
+    "rating": "4.3",
+    "reviewCount": "",
+    "category": "Meeresfrüchte-Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 51,
+    "scrapedAt": "2025-06-26T14:04:57.136Z",
+    "whatsappLink": "https://wa.me/496989990539"
+  },
+  {
+    "name": "MokkaTeeria",
+    "address": "Heidestraße 149, 60385 Frankfurt am Main",
+    "phone": "069 90759091",
+    "website": "https://www.mokkateeria.de/",
+    "rating": "4.8",
+    "reviewCount": "",
+    "category": "Café",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/mokkateeria/",
+      "twitter": ""
+    },
+    "index": 52,
+    "scrapedAt": "2025-06-26T14:05:01.560Z",
+    "whatsappLink": "https://wa.me/496990759091"
+  },
+  {
+    "name": "Efendi Turkisch Food",
+    "address": "Borsigallee 26, 60388 Frankfurt am Main",
+    "phone": "0172 6299995",
+    "website": "Borsigallee 26, 60388 Frankfurt am Main",
+    "rating": "3.7",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 53,
+    "scrapedAt": "2025-06-26T14:05:06.111Z",
+    "whatsappLink": "https://wa.me/491726299995"
+  },
+  {
+    "name": "URFA GRILLHAUS",
+    "address": "Hanauer Landstraße 133, 60314 Frankfurt am Main",
+    "phone": "069 43057661",
+    "website": "http://www.urfa-grill-pizzeria.de/",
+    "rating": "4.3",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 54,
+    "scrapedAt": "2025-06-26T14:05:10.261Z",
+    "whatsappLink": "https://wa.me/496943057661"
+  },
+  {
+    "name": "TADIM ET KEBAP",
+    "address": "Große Friedberger Str. 14, 60313 Frankfurt am Main",
+    "phone": "069 97694224",
+    "website": "https://zove.me/tadim-et-kebap-964614-de",
+    "rating": "3.1",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 55,
+    "scrapedAt": "2025-06-26T14:05:15.408Z",
+    "whatsappLink": "https://wa.me/496997694224"
+  },
+  {
+    "name": "Frankfurt",
+    "address": "Katharinenpforte 6, 60313 Frankfurt am Main",
+    "phone": "",
+    "website": "Katharinenpforte 6, 60313 Frankfurt am Main",
+    "rating": "",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 56,
+    "scrapedAt": "2025-06-26T14:05:23.143Z",
+    "whatsappLink": ""
+  },
+  {
+    "name": "Ramo's Döner & Kebab & Pizza Haus Frankfurt",
+    "address": "Schwalbacher Str. 40, 60326 Frankfurt am Main",
+    "phone": "069 91310958",
+    "website": "http://www.xn--ramos-dner-pizza-grill-0hc.de/",
+    "rating": "4.4",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 57,
+    "scrapedAt": "2025-06-26T14:05:27.662Z",
+    "whatsappLink": "https://wa.me/496991310958"
+  },
+  {
+    "name": "Dönaladn Frankfurt",
+    "address": "Berger Str. 76-78, 60316 Frankfurt am Main",
+    "phone": "069 50692926",
+    "website": "https://www.doenaladnfrankfurt.de/",
+    "rating": "4.3",
+    "reviewCount": "",
+    "category": "Döner-Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/doenaladn_frankfurt/",
+      "twitter": ""
+    },
+    "index": 58,
+    "scrapedAt": "2025-06-26T14:05:33.029Z",
+    "whatsappLink": "https://wa.me/496950692926"
+  },
+  {
+    "name": "Meral Imbiss",
+    "address": "Schaumainkai 35, 60594 Frankfurt am Main",
+    "phone": "0162 4353304",
+    "website": "http://www.meral-event.de/",
+    "rating": "4.1",
+    "reviewCount": "",
+    "category": "Döner-Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 59,
+    "scrapedAt": "2025-06-26T14:05:37.779Z",
+    "whatsappLink": "https://wa.me/491624353304"
+  },
+  {
+    "name": "Bayram Kebap Haus",
+    "address": "Münchener Str. 29, 60329 Frankfurt am Main",
+    "phone": "069 24249774",
+    "website": "http://www.bayram-kebap-haus.de/",
+    "rating": "3.8",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/bayram.kebap.haus/",
+      "twitter": ""
+    },
+    "index": 60,
+    "scrapedAt": "2025-06-26T14:05:41.960Z",
+    "whatsappLink": "https://wa.me/496924249774"
+  },
+  {
+    "name": "WESTEND DÖNER",
+    "address": "Reuterweg 55, 60323 Frankfurt am Main",
+    "phone": "069 43093385",
+    "website": "Reuterweg 55, 60323 Frankfurt am Main",
+    "rating": "4.1",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 61,
+    "scrapedAt": "2025-06-26T14:05:47.444Z",
+    "whatsappLink": "https://wa.me/496943093385"
+  },
+  {
+    "name": "Meral Imbiss",
+    "address": "Schaumainkai 35, 60594 Frankfurt am Main",
+    "phone": "0162 4353304",
+    "website": "http://www.meral-event.de/",
+    "rating": "4.1",
+    "reviewCount": "",
+    "category": "Döner-Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 62,
+    "scrapedAt": "2025-06-26T14:05:51.839Z",
+    "whatsappLink": "https://wa.me/491624353304"
+  },
+  {
+    "name": "Du Liban-Libanon Restaurant",
+    "address": "Weserstraße 17, 60329 Frankfurt am Main",
+    "phone": "069 24008686",
+    "website": "http://du-liban-express.de/",
+    "rating": "4.7",
+    "reviewCount": "",
+    "category": "Libanesisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 63,
+    "scrapedAt": "2025-06-26T14:06:00.250Z",
+    "whatsappLink": "https://wa.me/496924008686"
+  },
+  {
+    "name": "DÖNERHELD",
+    "address": "Zeil 39, 60313 Frankfurt am Main",
+    "phone": "0173 3883370",
+    "website": "https://doener-held.de/",
+    "rating": "4.8",
+    "reviewCount": "",
+    "category": "Fast-Food-Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/doenerhelden/",
+      "twitter": ""
+    },
+    "index": 64,
+    "scrapedAt": "2025-06-26T14:06:04.623Z",
+    "whatsappLink": "https://wa.me/491733883370"
+  },
+  {
+    "name": "Frankfurt",
+    "address": "Katharinenpforte 6, 60313 Frankfurt am Main",
+    "phone": "",
+    "website": "Katharinenpforte 6, 60313 Frankfurt am Main",
+    "rating": "",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 65,
+    "scrapedAt": "2025-06-26T14:06:09.994Z",
+    "whatsappLink": ""
+  },
+  {
+    "name": "Dönaladn Frankfurt",
+    "address": "Berger Str. 76-78, 60316 Frankfurt am Main",
+    "phone": "069 50692926",
+    "website": "https://www.doenaladnfrankfurt.de/",
+    "rating": "4.3",
+    "reviewCount": "",
+    "category": "Döner-Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/doenaladn_frankfurt/",
+      "twitter": ""
+    },
+    "index": 66,
+    "scrapedAt": "2025-06-26T14:06:14.320Z",
+    "whatsappLink": "https://wa.me/496950692926"
+  },
+  {
+    "name": "Alice Premium Döner",
+    "address": "Europa-Allee 6, 60327 Frankfurt am Main",
+    "phone": "069 67727237",
+    "website": "Europa-Allee 6, 60327 Frankfurt am Main",
+    "rating": "2.7",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 67,
+    "scrapedAt": "2025-06-26T14:06:19.326Z",
+    "whatsappLink": "https://wa.me/496967727237"
+  },
+  {
+    "name": "MokkaTeeria",
+    "address": "Heidestraße 149, 60385 Frankfurt am Main",
+    "phone": "069 90759091",
+    "website": "https://www.mokkateeria.de/",
+    "rating": "4.8",
+    "reviewCount": "",
+    "category": "Café",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/mokkateeria/",
+      "twitter": ""
+    },
+    "index": 68,
+    "scrapedAt": "2025-06-26T14:06:23.708Z",
+    "whatsappLink": "https://wa.me/496990759091"
+  },
+  {
+    "name": "BABAM",
+    "address": "Münchener Str. 11, 60329 Frankfurt am Main",
+    "phone": "069 24004455",
+    "website": "http://babam.de/",
+    "rating": "4.5",
+    "reviewCount": "",
+    "category": "Persisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/restaurantbabam",
+      "twitter": ""
+    },
+    "index": 69,
+    "scrapedAt": "2025-06-26T14:06:28.942Z",
+    "whatsappLink": "https://wa.me/496924004455"
+  },
+  {
+    "name": "Star Türkü Evi Frankfurt",
+    "address": "Bischofsweg 48 A, 60598 Frankfurt am Main",
+    "phone": "01573 5589581",
+    "website": "https://www.instagram.com/starturku",
+    "rating": "4.2",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/starturku",
+      "twitter": ""
+    },
+    "index": 70,
+    "scrapedAt": "2025-06-26T14:06:36.706Z",
+    "whatsappLink": "https://wa.me/4915735589581"
+  },
+  {
+    "name": "Grüneburg Döner",
+    "address": "Grüneburgweg 21, 60322 Frankfurt am Main",
+    "phone": "069 58005847",
+    "website": "https://grueneburg-doener.eatbu.com/",
+    "rating": "4.5",
+    "reviewCount": "",
+    "category": "Kebabimbiss",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 71,
+    "scrapedAt": "2025-06-26T14:06:41.528Z",
+    "whatsappLink": "https://wa.me/496958005847"
+  },
+  {
+    "name": "URFA GRILLHAUS",
+    "address": "Hanauer Landstraße 133, 60314 Frankfurt am Main",
+    "phone": "069 43057661",
+    "website": "http://www.urfa-grill-pizzeria.de/",
+    "rating": "4.3",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 72,
+    "scrapedAt": "2025-06-26T14:06:46.468Z",
+    "whatsappLink": "https://wa.me/496943057661"
+  },
+  {
+    "name": "Mersin Kebap",
+    "address": "Berger Str. 85, 60316 Frankfurt am Main",
+    "phone": "069 15628971",
+    "website": "https://speisekartenweb.de/restaurants/frankfurt+am+main/mersin-kebap-108301?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin_b_google_0524",
+    "rating": "4.1",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 73,
+    "scrapedAt": "2025-06-26T14:06:50.842Z",
+    "whatsappLink": "https://wa.me/496915628971"
+  },
+  {
+    "name": "PARIS Doener & Pizza Haus",
+    "address": "Gräfstraße 87, 60487 Frankfurt am Main",
+    "phone": "069 70792944",
+    "website": "Gräfstraße 87, 60487 Frankfurt am Main",
+    "rating": "3.4",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 74,
+    "scrapedAt": "2025-06-26T14:06:55.495Z",
+    "whatsappLink": "https://wa.me/496970792944"
+  },
+  {
+    "name": "Hazar Döner",
+    "address": "Börsenplatz 1-3, Schillerstraße 9, 60313 Frankfurt am Main",
+    "phone": "069 20328287",
+    "website": "https://www.xn--hazar-dner-kcb.de/",
+    "rating": "4.5",
+    "reviewCount": "",
+    "category": "Fast-Food-Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 75,
+    "scrapedAt": "2025-06-26T14:07:00.629Z",
+    "whatsappLink": "https://wa.me/496920328287"
+  },
+  {
+    "name": "Avlija - Balkan Grill",
+    "address": "Mainzer Landstraße 114, 60327 Frankfurt am Main",
+    "phone": "069 74221400",
+    "website": "https://www.facebook.com/avlija.frankfurt",
+    "rating": "4.8",
+    "reviewCount": "",
+    "category": "Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/avlija.frankfurt",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 76,
+    "scrapedAt": "2025-06-26T14:07:05.131Z",
+    "whatsappLink": "https://wa.me/496974221400"
+  },
+  {
+    "name": "Tatie Restaurant",
+    "address": "Am Hauptbahnhof 18, 60329 Frankfurt am Main",
+    "phone": "069 13817828",
+    "website": "http://www.tatie-frankfurt.de/",
+    "rating": "4.3",
+    "reviewCount": "",
+    "category": "Marokkanisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/tatie_restaurant/",
+      "twitter": ""
+    },
+    "index": 77,
+    "scrapedAt": "2025-06-26T14:07:13.963Z",
+    "whatsappLink": "https://wa.me/496913817828"
+  },
+  {
+    "name": "Ton Bul Grill- und Kebap-Haus",
+    "address": "Berliner Str. 2, 60311 Frankfurt am Main",
+    "phone": "069 284179",
+    "website": "http://tonbuldoner.de/",
+    "rating": "3.7",
+    "reviewCount": "",
+    "category": "Kebabimbiss",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 78,
+    "scrapedAt": "2025-06-26T14:07:18.809Z",
+    "whatsappLink": "https://wa.me/4969284179"
+  },
+  {
+    "name": "Nefis Kebap Haus",
+    "address": "Münchener Str. 51, 60329 Frankfurt am Main",
+    "phone": "069 37309848",
+    "website": "https://Münchener Str. 51, 60329 Frankfurt am Main",
+    "rating": "3.9",
+    "reviewCount": "",
+    "category": "Kebabimbiss",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 79,
+    "scrapedAt": "2025-06-26T14:07:23.665Z",
+    "whatsappLink": "https://wa.me/496937309848"
+  },
+  {
+    "name": "African Queen Restaurant",
+    "address": "Schloßstraße 113, 60486 Frankfurt am Main",
+    "phone": "069 24248505",
+    "website": "http://african-queen-restaurant.de/",
+    "rating": "4.7",
+    "reviewCount": "",
+    "category": "Eritreisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/africanqueen_frankfurt/?hl=de",
+      "twitter": ""
+    },
+    "index": 80,
+    "scrapedAt": "2025-06-26T14:07:28.964Z",
+    "whatsappLink": "https://wa.me/496924248505"
+  },
+  {
+    "name": "Hasan's Baba Döner",
+    "address": "Heerstraße 159, 60488 Frankfurt am Main",
+    "phone": "069 90507732",
+    "website": "Heerstraße 159, 60488 Frankfurt am Main",
+    "rating": "4.0",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 81,
+    "scrapedAt": "2025-06-26T14:07:33.177Z",
+    "whatsappLink": "https://wa.me/496990507732"
+  },
+  {
+    "name": "Bovo‘s Döner",
+    "address": "Eckenheimer Landstraße 43, 60318 Frankfurt am Main",
+    "phone": "069 59797187",
+    "website": "https://www.bovosdner.de/",
+    "rating": "4.4",
+    "reviewCount": "",
+    "category": "Kebabimbiss",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 82,
+    "scrapedAt": "2025-06-26T14:07:38.745Z",
+    "whatsappLink": "https://wa.me/496959797187"
+  },
+  {
+    "name": "Restaurant Thai Fun",
+    "address": "Elbestraße 15, 60329 Frankfurt am Main",
+    "phone": "069 26958430",
+    "website": "http://www.thaifun-halal.de/",
+    "rating": "4.6",
+    "reviewCount": "",
+    "category": "Thailändisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/thaifunrestaurant/",
+      "twitter": ""
+    },
+    "index": 83,
+    "scrapedAt": "2025-06-26T14:07:47.416Z",
+    "whatsappLink": "https://wa.me/496926958430"
+  },
+  {
+    "name": "Köylü-Döner",
+    "address": "Paradiesgasse 65, 60594 Frankfurt am Main",
+    "phone": "069 628913",
+    "website": "Paradiesgasse 65, 60594 Frankfurt am Main",
+    "rating": "4.0",
+    "reviewCount": "",
+    "category": "Kebabimbiss",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 84,
+    "scrapedAt": "2025-06-26T14:07:52.153Z",
+    "whatsappLink": "https://wa.me/4969628913"
+  },
+  {
+    "name": "Sindam Bistro & Cafe",
+    "address": "Berger Str. 170, 60385 Frankfurt am Main",
+    "phone": "069 90432799",
+    "website": "https://www.sindam-bistro-cafe-frankfurt-am-main.de/",
+    "rating": "4.5",
+    "reviewCount": "",
+    "category": "Restaurant mit Essen zum Mitnehmen",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 85,
+    "scrapedAt": "2025-06-26T14:07:56.943Z",
+    "whatsappLink": "https://wa.me/496990432799"
+  },
+  {
+    "name": "Can Kebap Haus",
+    "address": "Radilostraße 7, 60489 Frankfurt am Main",
+    "phone": "069 65602672",
+    "website": "https://mapclick.me/can-kebap-haus-154295-de",
+    "rating": "4.4",
+    "reviewCount": "",
+    "category": "Kebabimbiss",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 86,
+    "scrapedAt": "2025-06-26T14:08:01.971Z",
+    "whatsappLink": "https://wa.me/496965602672"
+  },
+  {
+    "name": "MATIZ – Mezze Grill Bar",
+    "address": "Im Bruch 60, 65933 Frankfurt am Main",
+    "phone": "",
+    "website": "https://weblom.me/matiz-mezze-grill-bar-530482-de",
+    "rating": "3.4",
+    "reviewCount": "",
+    "category": "Bar & Grillrestaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 87,
+    "scrapedAt": "2025-06-26T14:08:07.102Z",
+    "whatsappLink": ""
+  },
+  {
+    "name": "Saray Restaurant & Cafe",
+    "address": "Homburger Landstraße 668, 60437 Frankfurt am Main",
+    "phone": "069 56005950",
+    "website": "https://www.sarayfrankfurt.de/",
+    "rating": "3.9",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 88,
+    "scrapedAt": "2025-06-26T14:08:12.120Z",
+    "whatsappLink": "https://wa.me/496956005950"
+  },
+  {
+    "name": "Aroma Balkan Grill",
+    "address": "Münchener Str. 18, 60329 Frankfurt am Main",
+    "phone": "0175 6644091",
+    "website": "https://Münchener Str. 18, 60329 Frankfurt am Main",
+    "rating": "4.0",
+    "reviewCount": "",
+    "category": "Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 89,
+    "scrapedAt": "2025-06-26T14:08:20.585Z",
+    "whatsappLink": "https://wa.me/491756644091"
+  },
+  {
+    "name": "Cigköftem",
+    "address": "Münchener Str. 20, 60329 Frankfurt am Main",
+    "phone": "069 36602372",
+    "website": "https://www.facebook.com/pages/category/Vegetarian-Vegan-Restaurant/Cigk%C3%B6ftem-Frankfurt-227085597373757/",
+    "rating": "4.2",
+    "reviewCount": "",
+    "category": "Veganes Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/pages/category/Vegetarian-Vegan-Restaurant/Cigk%C3%B6ftem-Frankfurt-227085597373757/",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 90,
+    "scrapedAt": "2025-06-26T14:08:25.433Z",
+    "whatsappLink": "https://wa.me/496936602372"
+  },
+  {
+    "name": "Big Chefs",
+    "address": "MyZeil, Zeil 106/110/4.OG, 60313 Frankfurt am Main",
+    "phone": "069 27271800",
+    "website": "https://www.bigchefscafe.eu/",
+    "rating": "3.6",
+    "reviewCount": "",
+    "category": "Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 91,
+    "scrapedAt": "2025-06-26T14:08:29.501Z",
+    "whatsappLink": "https://wa.me/496927271800"
+  },
+  {
+    "name": "MAHLZEIT Imbiss",
+    "address": "Schwalbacher Str. 62, 60326 Frankfurt am Main",
+    "phone": "069 97323199",
+    "website": "https://www.mahlzeitimbiss.de/",
+    "rating": "4.1",
+    "reviewCount": "",
+    "category": "Kebabimbiss",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 92,
+    "scrapedAt": "2025-06-26T14:08:34.752Z",
+    "whatsappLink": "https://wa.me/496997323199"
+  },
+  {
+    "name": "Viking Pizza & Kebap Haus",
+    "address": "Wittelsbacherallee 71, 60385 Frankfurt am Main",
+    "phone": "069 85804100",
+    "website": "Wittelsbacherallee 71, 60385 Frankfurt am Main",
+    "rating": "4.4",
+    "reviewCount": "",
+    "category": "Döner-Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 93,
+    "scrapedAt": "2025-06-26T14:08:40.169Z",
+    "whatsappLink": "https://wa.me/496985804100"
+  },
+  {
+    "name": "MC Döner",
+    "address": "Bruchfeldstraße 29, 60528 Frankfurt am Main",
+    "phone": "069 85804008",
+    "website": "https://www.mcdoener-frankfurtammain.de/",
+    "rating": "3.8",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 94,
+    "scrapedAt": "2025-06-26T14:08:44.502Z",
+    "whatsappLink": "https://wa.me/496985804008"
+  },
+  {
+    "name": "Sümela",
+    "address": "Bornheimer Landstraße 77, 60316 Frankfurt am Main",
+    "phone": "069 17498888",
+    "website": "http://www.suemela.de/",
+    "rating": "4.3",
+    "reviewCount": "",
+    "category": "Türkisches Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 95,
+    "scrapedAt": "2025-06-26T14:08:48.952Z",
+    "whatsappLink": "https://wa.me/496917498888"
+  },
+  {
+    "name": "Nordend Gözleme und Wraps",
+    "address": "Glauburgstraße 36, 60318 Frankfurt am Main",
+    "phone": "069 27113574",
+    "website": "Glauburgstraße 36, 60318 Frankfurt am Main",
+    "rating": "4.7",
+    "reviewCount": "",
+    "category": "Frühstückslokal",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 96,
+    "scrapedAt": "2025-06-26T14:08:56.972Z",
+    "whatsappLink": "https://wa.me/496927113574"
+  },
+  {
+    "name": "Zagros Dorger Restaurant",
+    "address": "Taunusstraße 23, 60329 Frankfurt am Main",
+    "phone": "069 42891664",
+    "website": "Taunusstraße 23, 60329 Frankfurt am Main",
+    "rating": "3.4",
+    "reviewCount": "",
+    "category": "Restaurant",
+    "hours": "",
+    "whatsapp": "",
+    "email": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    },
+    "index": 97,
+    "scrapedAt": "2025-06-26T14:09:02.473Z",
+    "whatsappLink": "https://wa.me/496942891664"
+  }
+]

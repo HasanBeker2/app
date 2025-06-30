@@ -42,7 +42,7 @@ class InstagramScraper {
             }
 
             console.log(`Visiting: ${validUrl.href}`);
-            await this.page.goto(validUrl.href, { waitUntil: 'networkidle', timeout: 30000 });
+            await this.page.goto(validUrl.href, { waitUntil: 'domcontentloaded', timeout: 15000 });
 
             // Look for Instagram links in the page
             const instagramLink = await this.page.evaluate(() => {
@@ -65,7 +65,7 @@ class InstagramScraper {
                 const contactUrl = new URL(path, url).href;
                 console.log(`Trying contact page: ${contactUrl}`);
                 try {
-                    await this.page.goto(contactUrl, { waitUntil: 'networkidle', timeout: 15000 });
+                    await this.page.goto(contactUrl, { waitUntil: 'domcontentloaded', timeout: 10000 });
                     const contactPageInstagramLink = await this.page.evaluate(() => {
                         const links = Array.from(document.querySelectorAll('a'));
                         const instagramLinks = links.filter(link => {
@@ -79,14 +79,14 @@ class InstagramScraper {
                         return contactPageInstagramLink;
                     }
                 } catch (e) {
-                    console.log(`Could not navigate to or find Instagram on ${contactUrl}: ${e.message}`);
+                    // Silently skip failed contact pages
                 }
             }
 
             return '';
 
         } catch (error) {
-            console.error(`Error visiting ${url}: ${error.message}`);
+            console.log(`Skipping ${url}: ${error.message}`);
             return '';
         }
     }
@@ -118,7 +118,7 @@ class InstagramScraper {
                     instagram: instagram
                 }
             });
-            await this.page.waitForTimeout(1000); // Be respectful
+            await this.page.waitForTimeout(500); // Be respectful
         }
 
         const outputJsonFilename = `./json_output/turkish_restaurants_${city.toLowerCase()}_final.json`;
